@@ -2,7 +2,7 @@ import React, { useEffect, useMemo, useState } from 'react'
 
 const CATEGORIES = ['Beginner','Scaled','Advance','RX']
 const WODS = ['WOD 1','WOD 2','WOD 3','WOD 4','WOD 5']
-const STORAGE_KEY = 'athlon-fitfest-data-v1'
+const STORAGE_KEY = 'athlon-fitfest-data-ve'
 const ADMIN_PASSWORD = 'CuloRoto';       // ← cambiala por la que quieras
 const ADMIN_SESSION_KEY = 'athlon-admin';  // clave para localStorage
 
